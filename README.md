@@ -24,4 +24,6 @@ Features:
 ![image](images/final.png)
 
 ### BOM
-The total costs comes out to be $115.12
+<img width="380" height="480" alt="image" src="https://github.com/user-attachments/assets/68043288-81d5-4ec0-9f10-ed8928ce0ef0" />
+
+The total costs comes out to be $159
