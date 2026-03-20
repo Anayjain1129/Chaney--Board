@@ -23,4 +23,5 @@ Features:
 ### 3D view of all parts together 
 ![image](images/final.png)
 
+### BOM
 The total costs comes out to be $115.12
